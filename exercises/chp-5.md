@@ -2,7 +2,7 @@
 
 **01 다음 SOL 문장 중 문법적으로 옳은 것은?**
 
-**1. SELECT 이름 FROM 학생 WHERE 학년 IN (1, 2, 3, 4) ;**
+1. **SELECT 이름 FROM 학생 WHERE 학년 IN (1, 2, 3, 4) ;**
 2. SELECT 이름, 학년 FROM 학생 WHERE 학년 = NULL ;
 3. SELECT 이름, 학년 FROM 학생 ORDER 학년 ;
 4. SELECT 학년 FROM 학생 WHERE 이름 = '한%' ;
@@ -12,11 +12,11 @@
 1. SELECT COUNT(학년) FROM 학생 GROUP 학년 ;
 2. SELECT 학년 FROM 학생 WHERE 이름 = ‘최 %' ;
 3. SELECT 이름, 학과 FROM 학생 WHERE 학년 = (1, 2, 3, 4) ;
-**4. SELECT * FROM 학생 WHERE 학년 IS NULL ;**
+4. **SELECT * FROM 학생 WHERE 학년 IS NULL ;**
 
 **03 SOL의 SELECT절에 사용할 수 없는 키워드는?**
 
-**1. ASC **
+1. **ASC **
 2. *
 3. DISTINCT
 4. ALL
@@ -33,7 +33,7 @@ ORDER BY 학년, 성적 ASC
 1. 점수가 70 점 이상인 학생만을 검색한다.
 2. 학생 테이불을 검색한다.
 3. 학년별 학생들의 성적 순위를 쉽게 알 수 있다.
-**4. 전체학생의 성적이 점수순(내림차순)으로 정렬된다.**
+4. **전체학생의 성적이 점수순(내림차순)으로 정렬된다.**
 
 **05 다음 SOL문 중 문법적으로 옳지 않은 것은?**
 
